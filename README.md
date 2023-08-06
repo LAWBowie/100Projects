@@ -4,3 +4,4 @@
 2: Portfolio Website: [Live Here]( https://lawbowie.github.io/Personal_portfolio/) </br>
 3: Tic Tac Toe </br>
 4: Watermarking Desktop App </br>
+5: Typing Speed Test </br>
