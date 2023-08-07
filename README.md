@@ -6,3 +6,5 @@
 4: Watermarking Desktop App </br>
 5: Typing Speed Test </br>
 6: Space Invaders </br>
+7: Todo List </br>
+8: Custom API </br>
