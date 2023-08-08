@@ -2,6 +2,10 @@
 
 Some of the Projects from this course.
 
+## Technologies 
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,javascript,python)](https://skillicons.dev)
+
+
 ## 100 Projects in 100 days Udemy Course.
 1: Text to Morse Code (Separate Repository) </br>
 2: Portfolio Website: [Live Here]( https://lawbowie.github.io/Personal_portfolio/) </br>
